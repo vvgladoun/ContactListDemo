@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_sort_ascending">Sort By A-Z</string>
+    <string name="action_sort_descending">Sort By Z-A</string>
+    <!-- contact details' titles -->
+    <string name="contact_username_title">USERNAME</string>
+    <string name="contact_phone_title">PHONE</string>
+    <string name="contact_address_title">ADDRESS</string>
+    <string name="contact_website_title">WEBSITE</string>
+    <string name="contact_company_title">COMPANY</string>
+</resources>
